@@ -11,3 +11,26 @@ If I were to revise one part of my work, I would improve the evaluation of the p
 I interpreted the user’s needs by focusing on how players and administrators would interact with the system during gameplay. The requirement for fast image rendering and real-time team interaction shaped decisions around memory caching, asynchronous loading, and centralized server control. Considering user needs is critical in software design because the system's success depends on usability and performance from the user’s perspective, not just on technical correctness. If the game lags or fails to synchronize across teams, the experience breaks down regardless of how well the code is written.
 
 My overall approach to designing the software was to start from requirements, identify constraints, and then map those needs to architectural patterns and technologies. I used a client-server model, modular service structure, and cloud-ready deployment strategy to ensure scalability and maintainability. In the future, I would use similar strategies, including requirement analysis, architecture comparison, and early resource planning, when designing comparable distributed applications. This structured approach ensures the design remains aligned with user needs and system goals throughout development.
+
+
+---
+
+## Top Five Destinations Application (CS 250)
+
+This project is a Java-based application developed as part of the SNHU Travel project in CS 250. The purpose of the application is to display a curated list of travel destinations while demonstrating core software development concepts using an Agile Scrum approach.
+
+### Features
+- Displays a list of travel destinations in a user-friendly interface  
+- Organized structure using object-oriented programming principles  
+- Built and modified based on evolving project requirements  
+
+### Development Process
+This project was developed using an Agile methodology. Work was completed in small increments using user stories, allowing for adjustments when requirements changed. The project was updated to reflect new priorities, which demonstrated the flexibility of Agile compared to a more traditional waterfall approach.
+
+### Tools and Technologies
+- Java  
+- Eclipse IDE  
+- Runnable JAR file for deployment  
+
+### What I Learned
+Through this project, I gained experience working through different roles in a Scrum Agile environment, including developer, tester, and Scrum Master. I also learned how to adapt to changing requirements, write and implement user stories, and deliver a working application in stages.
